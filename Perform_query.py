@@ -11,7 +11,6 @@ def Perform_query(data, query_to_performed):
     data = pd.read_csv('doc.csv', decimal=',')
 
     query_to_performed['Performed'] = False
-    query_to_performed['Query_number'] = None
     query_to_performed['Result'] = None
 
     # faire la liste unique des valeurs de Target issue de query_to_performed
