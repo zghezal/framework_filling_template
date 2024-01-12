@@ -1,0 +1,134 @@
+,H_Level_1,abscisse
+0,Asset classes,16
+1,Asset classes,17
+2,Asset classes,18
+3,"Sovereigns, PSEs, MDBs; of which:",19
+4,sovereigns,20
+5,PSEs treated as sovereigns as per CRE20.12,21
+6,other PSEs,22
+7,MDBs,23
+8,Banks (excluding covered bonds); of which:,24
+9,Claims on banks belonging to the same institutional protection scheme ,25
+10,ECRA - jurisdictions where ratings are allowed; of which:,26
+11,ECRA (long term); of which:,27
+12,AAA to AA- ,28
+13,A+ to A-,29
+14,BBB+ to BBB-,30
+15,BB+ to B-,31
+16,below B-,32
+17,ECRA (short term); of which:,33
+18,AAA to AA- ,34
+19,A+ to A-,35
+20,BBB+ to BBB-,36
+21,BB+ to B-,37
+22,below B-,38
+23,SCRA; of which:,39
+24,SCRA (long term),40
+25,Grade A (30% risk weight),41
+26,Grade A (40% risk weight),42
+27,Grade B,43
+28,Grade C,44
+29,Cannot yet be assigned,45
+30,SCRA (short term),46
+31,Grade A,47
+32,Grade B,48
+33,Grade C,49
+34,Cannot yet be assigned,50
+35,Covered bonds; of which:,51
+36,rated,52
+37,AAA to AA- ,53
+38,A+ to A-,54
+39,BBB+ to BBB-,55
+40,BB+ to B-,56
+41,below B-,57
+42,unrated; of which:,58
+43,risk weight for issuing bank of 20%,59
+44,risk weight for issuing bank of 30%,60
+45,risk weight for issuing bank of 40%,61
+46,risk weight for issuing bank of 50%,62
+47,risk weight for issuing bank of 75%,63
+48,risk weight for issuing bank of 100%,64
+49,risk weight for issuing bank of 150%,65
+50,"Total corporates, of which:",66
+51,Corporates; of which:,67
+52,Corporates (excluding SMEs); of which:,68
+53,Corporates (excluding SMEs) - rating allowed; of which:,69
+54,rated corporate exposures; of which:,70
+55,AAA to AA- ,71
+56,A+ to A-,72
+57,BBB+ to BBB-,73
+58,BB+ to BB-,74
+59,below BB-,75
+60,unrated corporate exposures ,76
+61,Corporates (excluding SMEs) - rating not allowed; of which:,77
+62,investment grade,78
+63,not investment grade,79
+64,Corporate SME exposures,80
+65,Specialised lending; of which:,81
+66,rated (only for jurisdictions where rating is allowed),82
+67,project finance; of which:,83
+68,pre-operational phase,84
+69,operational phase,85
+70,operational phase (high quality),86
+71,object finance,87
+72,commodity finance,88
+73,Equity and subordinated debt etc exposures; of which:,89
+74,Equity exposures; of which:,90
+75,speculative unlisted,91
+76,exposures to certain legislative programs,92
+77,others,93
+78,"Subordinated debt, capital instruments other than equity and other TLAC liabilities not deducted from capital",94
+79,Equity investment in funds; of which:,95
+80,equity investment in funds (mandate-based approach),96
+81,equity investment in funds (fall back approach),97
+82,Retail exposures; of which:,98
+83,regulatory retail: transactors,99
+84,regulatory retail: non-transactors,100
+85,other retail,101
+86,Exposures secured by real estate; of which:,102
+87,general residential real estate; of which:,103
+88,whole loan approach; of which:,104
+89,LTV ≤ 50%,105
+90,50% <LTV ≤ 60%,106
+91,60% <LTV ≤ 80%,107
+92,80% <LTV ≤ 90%,108
+93,90% <LTV ≤ 100%,109
+94,LTV > 100%,110
+95,Requirements not met,111
+96,loan splitting approach; of which:,112
+97,exposures ≤ 55% of property value,113
+98,exposures > 55% of property value,114
+99,Requirements not met,115
+100,general commercial real estate; of which:,116
+101,whole loan approach; of which:,117
+102,LTV ≤ 60%,118
+103,LTV > 60%,119
+104,Requirements not met,120
+105,loan splitting approach; of which:,121
+106,exposures ≤ 55% of property value,122
+107,exposures > 55% of property value,123
+108,Requirements not met,124
+109,income producing residential real estate; of which:,125
+110,LTV ≤ 50%,126
+111,50% <LTV ≤ 60%,127
+112,60% <LTV ≤ 80%,128
+113,80% <LTV ≤ 90%,129
+114,90% <LTV ≤ 100%,130
+115,LTV > 100%,131
+116,Requirements not met,132
+117,income producing commercial real estate; of which:,133
+118,LTV ≤ 60%,134
+119,60% < LTV ≤ 80%,135
+120,LTV > 80%,136
+121,Requirements not met,137
+122,"land acquisition, development and construction; of which:",138
+123,150% risk weight,139
+124,100% risk weight,140
+125,Defaulted exposures; of which:,141
+126,below 20% provisioning rate,142
+127,,143
+128,Failed trades and non-DVP transactions,144
+129,Other assets,145
+130,Total standardised approach,146
+131,,147
+132,Memo item: SA exposures reported in the banking book in regulatory reporting but no longer included above due to the application of the revised market risk framework definition of TB-BB boundary,148

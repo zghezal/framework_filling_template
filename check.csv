@@ -1,0 +1,54 @@
+abscisse,V_Level_1,V_Level_1,V_Level_1,V_Level_1
+2,Asset classes,Asset classes,Asset classes,Asset classes
+3,Amounts applying national rules at the reporting date,Exposures post substitution,,
+4,Amounts applying national rules at the reporting date,Exposures post substitution,On-balance sheet exposures (post-CRM),On-balance sheet exposures (post-CRM)
+5,Amounts applying national rules at the reporting date,Exposures post substitution,CCR,Total
+6,Amounts applying national rules at the reporting date,Exposures post substitution,CCR,of which: CCR internal models
+7,Amounts applying national rules at the reporting date,Exposures post substitution,,
+8,Amounts applying national rules at the reporting date,Exposures post substitution,Off-balance sheet exposures (post-CCF post-CRM),Off-balance sheet exposures (post-CCF post-CRM)
+9,Amounts applying national rules at the reporting date,"Exposures
+ (post-CCF, post-CRM)","Exposures
+ (post-CCF, post-CRM)","Exposures
+ (post-CCF, post-CRM)"
+10,Amounts applying national rules at the reporting date,RWA,On-balance sheet exposures,On-balance sheet exposures
+11,Amounts applying national rules at the reporting date,RWA,CCR,CCR
+12,Amounts applying national rules at the reporting date,RWA,Off-balance sheet exposures,Off-balance sheet exposures
+13,Amounts applying national rules at the reporting date,RWA,Total,Total
+14,Amounts applying national rules at the reporting date,Defaulted exposures,Defaulted exposures,Defaulted exposures
+15,Amounts applying national rules at the reporting date,Provisions,Specific provisions,Specific provisions
+16,Amounts applying national rules at the reporting date,Provisions,General provisions,General provisions
+17,Amounts applying revised rules for SA and for CCR exposures,Exposures post substitution,,
+18,Amounts applying revised rules for SA and for CCR exposures,Exposures post substitution,On-balance sheet exposures (post-CRM),On-balance sheet exposures (post-CRM)
+19,Amounts applying revised rules for SA and for CCR exposures,Exposures post substitution,CCR,Total
+20,Amounts applying revised rules for SA and for CCR exposures,Exposures post substitution,CCR,of which: CCR internal models
+21,Amounts applying revised rules for SA and for CCR exposures,Exposures post substitution,,
+22,Amounts applying revised rules for SA and for CCR exposures,Exposures post substitution,Off-balance sheet exposures (post-CCF post-CRM),Off-balance sheet exposures (post-CCF post-CRM)
+23,Amounts applying revised rules for SA and for CCR exposures,"Exposures
+ (post-CCF, post-CRM)","Exposures
+ (post-CCF, post-CRM)","Exposures
+ (post-CCF, post-CRM)"
+24,Amounts applying revised rules for SA and for CCR exposures,RWA,On-balance sheet exposures,On-balance sheet exposures
+25,Amounts applying revised rules for SA and for CCR exposures,RWA,CCR,CCR
+26,Amounts applying revised rules for SA and for CCR exposures,RWA,Off-balance sheet exposures,Off-balance sheet exposures
+27,Amounts applying revised rules for SA and for CCR exposures,RWA,Total,Total
+28,Amounts applying revised rules for SA and for CCR exposures,Average risk weight,Average risk weight,Average risk weight
+29,Amounts applying revised rules for SA and for CCR exposures,,,
+30,SA-CCR,"CCR exposures evaluated under previous non-internal method (CEM, SM, OEM) (if applicable)","CCR exposures evaluated under previous non-internal method (CEM, SM, OEM) (if applicable)","Exposures
+(post-CCF, post-CRM)"
+31,SA-CCR,"CCR exposures evaluated under previous non-internal method (CEM, SM, OEM) (if applicable)","CCR exposures evaluated under previous non-internal method (CEM, SM, OEM) (if applicable)",Difference in RWA
+32,Output floor,"Full non-modelling approach
+Leave empty if IMM not applied","Exposures 
+(post-CCF, post-CRM)",Total
+33,Output floor,"Full non-modelling approach
+Leave empty if IMM not applied","Exposures 
+(post-CCF, post-CRM)",of which: CCR
+34,Output floor,"Full non-modelling approach
+Leave empty if IMM not applied",RWA,RWA
+35,EU-specific: transitional SA-CCR application for credit risk output floor,"Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied","Exposures
+(post-CCF, post-CRM)",Total
+36,EU-specific: transitional SA-CCR application for credit risk output floor,"Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied","Exposures
+(post-CCF, post-CRM)",of which: CCR

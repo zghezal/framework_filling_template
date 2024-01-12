@@ -1,0 +1,437 @@
+,PANEL,abscisse,ordinate,coord,H_Level_1,V_Level_1,V_Level_1
+0,A.1 General,30,15,AD15,BBB+ to BBB-,Provisions,Provisions
+1,A.1 General,15,19,O19,Asset classes,Exposures post substitution,Exposures post substitution
+2,A.1 General,16,19,P19,,Exposures post substitution,Exposures post substitution
+3,A.1 General,3,20,C20,,Exposures post substitution,Exposures post substitution
+4,A.1 General,4,20,D20,,Exposures post substitution,Exposures post substitution
+5,A.1 General,5,20,E20,,Exposures post substitution,Exposures post substitution
+6,A.1 General,6,20,F20,,Exposures post substitution,Exposures post substitution
+7,A.1 General,7,20,G20,,Exposures post substitution,Exposures post substitution
+8,A.1 General,8,20,H20,,Exposures post substitution,Exposures post substitution
+9,A.1 General,10,20,J20,,Exposures post substitution,Exposures post substitution
+10,A.1 General,11,20,K20,,Exposures post substitution,Exposures post substitution
+11,A.1 General,12,20,L20,,Exposures post substitution,Exposures post substitution
+12,A.1 General,15,20,O20,Asset classes,Exposures post substitution,Exposures post substitution
+13,A.1 General,16,20,P20,,Exposures post substitution,Exposures post substitution
+14,A.1 General,17,20,Q20,,Exposures post substitution,Exposures post substitution
+15,A.1 General,18,20,R20,,Exposures post substitution,Exposures post substitution
+16,A.1 General,19,20,S20,"Sovereigns, PSEs, MDBs; of which:",Exposures post substitution,Exposures post substitution
+17,A.1 General,20,20,T20,sovereigns,Exposures post substitution,Exposures post substitution
+18,A.1 General,21,20,U20,PSEs treated as sovereigns as per CRE20.12,Exposures post substitution,Exposures post substitution
+19,A.1 General,22,20,V20,other PSEs,Exposures post substitution,Exposures post substitution
+20,A.1 General,24,20,X20,Banks (excluding covered bonds); of which:,Exposures post substitution,Exposures post substitution
+21,A.1 General,25,20,Y20,Claims on banks belonging to the same institutional protection scheme ,Exposures post substitution,Exposures post substitution
+22,A.1 General,26,20,Z20,ECRA - jurisdictions where ratings are allowed; of which:,Exposures post substitution,Exposures post substitution
+23,A.1 General,30,20,AD20,BBB+ to BBB-,Exposures post substitution,Exposures post substitution
+24,A.1 General,31,20,AE20,BB+ to B-,Exposures post substitution,Exposures post substitution
+25,A.1 General,32,20,AF20,below B-,Exposures post substitution,Exposures post substitution
+26,A.1 General,33,20,AG20,ECRA (short term); of which:,Exposures post substitution,Exposures post substitution
+27,A.1 General,34,20,AH20,AAA to AA- ,Exposures post substitution,Exposures post substitution
+28,A.1 General,3,21,C21,,Exposures post substitution,Exposures post substitution
+29,A.1 General,4,21,D21,,Exposures post substitution,Exposures post substitution
+30,A.1 General,5,21,E21,,Exposures post substitution,Exposures post substitution
+31,A.1 General,6,21,F21,,Exposures post substitution,Exposures post substitution
+32,A.1 General,7,21,G21,,Exposures post substitution,Exposures post substitution
+33,A.1 General,8,21,H21,,Exposures post substitution,Exposures post substitution
+34,A.1 General,10,21,J21,,Exposures post substitution,Exposures post substitution
+35,A.1 General,11,21,K21,,Exposures post substitution,Exposures post substitution
+36,A.1 General,12,21,L21,,Exposures post substitution,Exposures post substitution
+37,A.1 General,15,21,O21,Asset classes,Exposures post substitution,Exposures post substitution
+38,A.1 General,16,21,P21,,Exposures post substitution,Exposures post substitution
+39,A.1 General,17,21,Q21,,Exposures post substitution,Exposures post substitution
+40,A.1 General,18,21,R21,,Exposures post substitution,Exposures post substitution
+41,A.1 General,19,21,S21,"Sovereigns, PSEs, MDBs; of which:",Exposures post substitution,Exposures post substitution
+42,A.1 General,20,21,T21,sovereigns,Exposures post substitution,Exposures post substitution
+43,A.1 General,21,21,U21,PSEs treated as sovereigns as per CRE20.12,Exposures post substitution,Exposures post substitution
+44,A.1 General,22,21,V21,other PSEs,Exposures post substitution,Exposures post substitution
+45,A.1 General,24,21,X21,Banks (excluding covered bonds); of which:,Exposures post substitution,Exposures post substitution
+46,A.1 General,25,21,Y21,Claims on banks belonging to the same institutional protection scheme ,Exposures post substitution,Exposures post substitution
+47,A.1 General,26,21,Z21,ECRA - jurisdictions where ratings are allowed; of which:,Exposures post substitution,Exposures post substitution
+48,A.1 General,30,21,AD21,BBB+ to BBB-,Exposures post substitution,Exposures post substitution
+49,A.1 General,31,21,AE21,BB+ to B-,Exposures post substitution,Exposures post substitution
+50,A.1 General,32,21,AF21,below B-,Exposures post substitution,Exposures post substitution
+51,A.1 General,33,21,AG21,ECRA (short term); of which:,Exposures post substitution,Exposures post substitution
+52,A.1 General,34,21,AH21,AAA to AA- ,Exposures post substitution,Exposures post substitution
+53,A.1 General,3,22,C22,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+54,A.1 General,4,22,D22,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+55,A.1 General,5,22,E22,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+56,A.1 General,6,22,F22,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+57,A.1 General,7,22,G22,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+58,A.1 General,8,22,H22,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+59,A.1 General,10,22,J22,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+60,A.1 General,11,22,K22,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+61,A.1 General,12,22,L22,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+62,A.1 General,15,22,O22,Asset classes,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+63,A.1 General,16,22,P22,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+64,A.1 General,17,22,Q22,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+65,A.1 General,18,22,R22,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+66,A.1 General,19,22,S22,"Sovereigns, PSEs, MDBs; of which:",Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+67,A.1 General,20,22,T22,sovereigns,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+68,A.1 General,21,22,U22,PSEs treated as sovereigns as per CRE20.12,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+69,A.1 General,22,22,V22,other PSEs,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+70,A.1 General,24,22,X22,Banks (excluding covered bonds); of which:,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+71,A.1 General,25,22,Y22,Claims on banks belonging to the same institutional protection scheme ,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+72,A.1 General,26,22,Z22,ECRA - jurisdictions where ratings are allowed; of which:,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+73,A.1 General,30,22,AD22,BBB+ to BBB-,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+74,A.1 General,31,22,AE22,BB+ to B-,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+75,A.1 General,32,22,AF22,below B-,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+76,A.1 General,33,22,AG22,ECRA (short term); of which:,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+77,A.1 General,34,22,AH22,AAA to AA- ,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+78,A.1 General,3,23,C23,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+79,A.1 General,4,23,D23,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+80,A.1 General,5,23,E23,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+81,A.1 General,6,23,F23,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+82,A.1 General,7,23,G23,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+83,A.1 General,8,23,H23,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+84,A.1 General,10,23,J23,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+85,A.1 General,11,23,K23,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+86,A.1 General,12,23,L23,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+87,A.1 General,15,23,O23,Asset classes,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+88,A.1 General,16,23,P23,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+89,A.1 General,17,23,Q23,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+90,A.1 General,18,23,R23,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+91,A.1 General,19,23,S23,"Sovereigns, PSEs, MDBs; of which:",Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+92,A.1 General,20,23,T23,sovereigns,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+93,A.1 General,21,23,U23,PSEs treated as sovereigns as per CRE20.12,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+94,A.1 General,22,23,V23,other PSEs,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+95,A.1 General,24,23,X23,Banks (excluding covered bonds); of which:,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+96,A.1 General,25,23,Y23,Claims on banks belonging to the same institutional protection scheme ,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+97,A.1 General,26,23,Z23,ECRA - jurisdictions where ratings are allowed; of which:,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+98,A.1 General,30,23,AD23,BBB+ to BBB-,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+99,A.1 General,31,23,AE23,BB+ to B-,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+100,A.1 General,32,23,AF23,below B-,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+101,A.1 General,33,23,AG23,ECRA (short term); of which:,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+102,A.1 General,34,23,AH23,AAA to AA- ,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+103,A.1 General,15,24,O24,Asset classes,RWA,RWA
+104,A.1 General,16,24,P24,,RWA,RWA
+105,A.1 General,3,25,C25,,RWA,RWA
+106,A.1 General,4,25,D25,,RWA,RWA
+107,A.1 General,5,25,E25,,RWA,RWA
+108,A.1 General,6,25,F25,,RWA,RWA
+109,A.1 General,7,25,G25,,RWA,RWA
+110,A.1 General,8,25,H25,,RWA,RWA
+111,A.1 General,10,25,J25,,RWA,RWA
+112,A.1 General,11,25,K25,,RWA,RWA
+113,A.1 General,12,25,L25,,RWA,RWA
+114,A.1 General,15,25,O25,Asset classes,RWA,RWA
+115,A.1 General,16,25,P25,,RWA,RWA
+116,A.1 General,17,25,Q25,,RWA,RWA
+117,A.1 General,18,25,R25,,RWA,RWA
+118,A.1 General,19,25,S25,"Sovereigns, PSEs, MDBs; of which:",RWA,RWA
+119,A.1 General,20,25,T25,sovereigns,RWA,RWA
+120,A.1 General,21,25,U25,PSEs treated as sovereigns as per CRE20.12,RWA,RWA
+121,A.1 General,22,25,V25,other PSEs,RWA,RWA
+122,A.1 General,24,25,X25,Banks (excluding covered bonds); of which:,RWA,RWA
+123,A.1 General,25,25,Y25,Claims on banks belonging to the same institutional protection scheme ,RWA,RWA
+124,A.1 General,26,25,Z25,ECRA - jurisdictions where ratings are allowed; of which:,RWA,RWA
+125,A.1 General,30,25,AD25,BBB+ to BBB-,RWA,RWA
+126,A.1 General,31,25,AE25,BB+ to B-,RWA,RWA
+127,A.1 General,32,25,AF25,below B-,RWA,RWA
+128,A.1 General,33,25,AG25,ECRA (short term); of which:,RWA,RWA
+129,A.1 General,34,25,AH25,AAA to AA- ,RWA,RWA
+130,A.1 General,15,26,O26,Asset classes,RWA,RWA
+131,A.1 General,16,26,P26,,RWA,RWA
+132,A.1 General,15,27,O27,Asset classes,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+133,A.1 General,16,27,P27,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+134,A.1 General,3,28,C28,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+135,A.1 General,4,28,D28,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+136,A.1 General,5,28,E28,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+137,A.1 General,6,28,F28,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+138,A.1 General,7,28,G28,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+139,A.1 General,8,28,H28,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+140,A.1 General,10,28,J28,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+141,A.1 General,11,28,K28,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+142,A.1 General,12,28,L28,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+143,A.1 General,15,28,O28,Asset classes,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+144,A.1 General,16,28,P28,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+145,A.1 General,17,28,Q28,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+146,A.1 General,18,28,R28,,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+147,A.1 General,19,28,S28,"Sovereigns, PSEs, MDBs; of which:",Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+148,A.1 General,20,28,T28,sovereigns,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+149,A.1 General,21,28,U28,PSEs treated as sovereigns as per CRE20.12,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+150,A.1 General,22,28,V28,other PSEs,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+151,A.1 General,24,28,X28,Banks (excluding covered bonds); of which:,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+152,A.1 General,25,28,Y28,Claims on banks belonging to the same institutional protection scheme ,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+153,A.1 General,26,28,Z28,ECRA - jurisdictions where ratings are allowed; of which:,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+154,A.1 General,30,28,AD28,BBB+ to BBB-,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+155,A.1 General,31,28,AE28,BB+ to B-,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+156,A.1 General,32,28,AF28,below B-,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+157,A.1 General,33,28,AG28,ECRA (short term); of which:,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+158,A.1 General,34,28,AH28,AAA to AA- ,Amounts applying revised rules for SA and for CCR exposures,Amounts applying revised rules for SA and for CCR exposures
+159,A.1 General,3,29,C29,,,
+160,A.1 General,4,29,D29,,,
+161,A.1 General,5,29,E29,,,
+162,A.1 General,6,29,F29,,,
+163,A.1 General,7,29,G29,,,
+164,A.1 General,8,29,H29,,,
+165,A.1 General,10,29,J29,,,
+166,A.1 General,11,29,K29,,,
+167,A.1 General,12,29,L29,,,
+168,A.1 General,15,29,O29,Asset classes,,
+169,A.1 General,16,29,P29,,,
+170,A.1 General,17,29,Q29,,,
+171,A.1 General,18,29,R29,,,
+172,A.1 General,19,29,S29,"Sovereigns, PSEs, MDBs; of which:",,
+173,A.1 General,20,29,T29,sovereigns,,
+174,A.1 General,21,29,U29,PSEs treated as sovereigns as per CRE20.12,,
+175,A.1 General,22,29,V29,other PSEs,,
+176,A.1 General,24,29,X29,Banks (excluding covered bonds); of which:,,
+177,A.1 General,25,29,Y29,Claims on banks belonging to the same institutional protection scheme ,,
+178,A.1 General,26,29,Z29,ECRA - jurisdictions where ratings are allowed; of which:,,
+179,A.1 General,30,29,AD29,BBB+ to BBB-,,
+180,A.1 General,31,29,AE29,BB+ to B-,,
+181,A.1 General,32,29,AF29,below B-,,
+182,A.1 General,33,29,AG29,ECRA (short term); of which:,,
+183,A.1 General,34,29,AH29,AAA to AA- ,,
+184,A.1 General,3,30,C30,,SA-CCR,SA-CCR
+185,A.1 General,4,30,D30,,SA-CCR,SA-CCR
+186,A.1 General,5,30,E30,,SA-CCR,SA-CCR
+187,A.1 General,6,30,F30,,SA-CCR,SA-CCR
+188,A.1 General,7,30,G30,,SA-CCR,SA-CCR
+189,A.1 General,8,30,H30,,SA-CCR,SA-CCR
+190,A.1 General,10,30,J30,,SA-CCR,SA-CCR
+191,A.1 General,11,30,K30,,SA-CCR,SA-CCR
+192,A.1 General,12,30,L30,,SA-CCR,SA-CCR
+193,A.1 General,15,30,O30,Asset classes,SA-CCR,SA-CCR
+194,A.1 General,16,30,P30,,SA-CCR,SA-CCR
+195,A.1 General,17,30,Q30,,SA-CCR,SA-CCR
+196,A.1 General,18,30,R30,,SA-CCR,SA-CCR
+197,A.1 General,19,30,S30,"Sovereigns, PSEs, MDBs; of which:",SA-CCR,SA-CCR
+198,A.1 General,20,30,T30,sovereigns,SA-CCR,SA-CCR
+199,A.1 General,21,30,U30,PSEs treated as sovereigns as per CRE20.12,SA-CCR,SA-CCR
+200,A.1 General,22,30,V30,other PSEs,SA-CCR,SA-CCR
+201,A.1 General,24,30,X30,Banks (excluding covered bonds); of which:,SA-CCR,SA-CCR
+202,A.1 General,25,30,Y30,Claims on banks belonging to the same institutional protection scheme ,SA-CCR,SA-CCR
+203,A.1 General,26,30,Z30,ECRA - jurisdictions where ratings are allowed; of which:,SA-CCR,SA-CCR
+204,A.1 General,30,30,AD30,BBB+ to BBB-,SA-CCR,SA-CCR
+205,A.1 General,31,30,AE30,BB+ to B-,SA-CCR,SA-CCR
+206,A.1 General,32,30,AF30,below B-,SA-CCR,SA-CCR
+207,A.1 General,33,30,AG30,ECRA (short term); of which:,SA-CCR,SA-CCR
+208,A.1 General,34,30,AH30,AAA to AA- ,SA-CCR,SA-CCR
+209,A.1 General,3,31,C31,,,
+210,A.1 General,4,31,D31,,,
+211,A.1 General,5,31,E31,,,
+212,A.1 General,6,31,F31,,,
+213,A.1 General,7,31,G31,,,
+214,A.1 General,8,31,H31,,,
+215,A.1 General,10,31,J31,,,
+216,A.1 General,11,31,K31,,,
+217,A.1 General,12,31,L31,,,
+218,A.1 General,15,31,O31,Asset classes,,
+219,A.1 General,16,31,P31,,,
+220,A.1 General,17,31,Q31,,,
+221,A.1 General,18,31,R31,,,
+222,A.1 General,19,31,S31,"Sovereigns, PSEs, MDBs; of which:",,
+223,A.1 General,20,31,T31,sovereigns,,
+224,A.1 General,21,31,U31,PSEs treated as sovereigns as per CRE20.12,,
+225,A.1 General,22,31,V31,other PSEs,,
+226,A.1 General,24,31,X31,Banks (excluding covered bonds); of which:,,
+227,A.1 General,25,31,Y31,Claims on banks belonging to the same institutional protection scheme ,,
+228,A.1 General,26,31,Z31,ECRA - jurisdictions where ratings are allowed; of which:,,
+229,A.1 General,30,31,AD31,BBB+ to BBB-,,
+230,A.1 General,31,31,AE31,BB+ to B-,,
+231,A.1 General,32,31,AF31,below B-,,
+232,A.1 General,33,31,AG31,ECRA (short term); of which:,,
+233,A.1 General,34,31,AH31,AAA to AA- ,,
+234,A.1 General,3,32,C32,,Output floor,"Exposures 
+(post-CCF, post-CRM)"
+235,A.1 General,4,32,D32,,Output floor,"Exposures 
+(post-CCF, post-CRM)"
+236,A.1 General,5,32,E32,,Output floor,"Exposures 
+(post-CCF, post-CRM)"
+237,A.1 General,6,32,F32,,Output floor,"Exposures 
+(post-CCF, post-CRM)"
+238,A.1 General,7,32,G32,,Output floor,"Exposures 
+(post-CCF, post-CRM)"
+239,A.1 General,8,32,H32,,Output floor,"Exposures 
+(post-CCF, post-CRM)"
+240,A.1 General,10,32,J32,,Output floor,"Exposures 
+(post-CCF, post-CRM)"
+241,A.1 General,11,32,K32,,Output floor,"Exposures 
+(post-CCF, post-CRM)"
+242,A.1 General,12,32,L32,,Output floor,"Exposures 
+(post-CCF, post-CRM)"
+243,A.1 General,15,32,O32,Asset classes,Output floor,"Exposures 
+(post-CCF, post-CRM)"
+244,A.1 General,16,32,P32,,Output floor,"Exposures 
+(post-CCF, post-CRM)"
+245,A.1 General,17,32,Q32,,Output floor,"Exposures 
+(post-CCF, post-CRM)"
+246,A.1 General,18,32,R32,,Output floor,"Exposures 
+(post-CCF, post-CRM)"
+247,A.1 General,19,32,S32,"Sovereigns, PSEs, MDBs; of which:",Output floor,"Exposures 
+(post-CCF, post-CRM)"
+248,A.1 General,20,32,T32,sovereigns,Output floor,"Exposures 
+(post-CCF, post-CRM)"
+249,A.1 General,21,32,U32,PSEs treated as sovereigns as per CRE20.12,Output floor,"Exposures 
+(post-CCF, post-CRM)"
+250,A.1 General,22,32,V32,other PSEs,Output floor,"Exposures 
+(post-CCF, post-CRM)"
+251,A.1 General,24,32,X32,Banks (excluding covered bonds); of which:,Output floor,"Exposures 
+(post-CCF, post-CRM)"
+252,A.1 General,25,32,Y32,Claims on banks belonging to the same institutional protection scheme ,Output floor,"Exposures 
+(post-CCF, post-CRM)"
+253,A.1 General,26,32,Z32,ECRA - jurisdictions where ratings are allowed; of which:,Output floor,"Exposures 
+(post-CCF, post-CRM)"
+254,A.1 General,30,32,AD32,BBB+ to BBB-,Output floor,"Exposures 
+(post-CCF, post-CRM)"
+255,A.1 General,31,32,AE32,BB+ to B-,Output floor,"Exposures 
+(post-CCF, post-CRM)"
+256,A.1 General,32,32,AF32,below B-,Output floor,"Exposures 
+(post-CCF, post-CRM)"
+257,A.1 General,33,32,AG32,ECRA (short term); of which:,Output floor,"Exposures 
+(post-CCF, post-CRM)"
+258,A.1 General,34,32,AH32,AAA to AA- ,Output floor,"Exposures 
+(post-CCF, post-CRM)"
+259,A.1 General,15,33,O33,Asset classes,Output floor,Output floor
+260,A.1 General,16,33,P33,,Output floor,Output floor
+261,A.1 General,3,34,C34,,,
+262,A.1 General,4,34,D34,,,
+263,A.1 General,5,34,E34,,,
+264,A.1 General,6,34,F34,,,
+265,A.1 General,7,34,G34,,,
+266,A.1 General,8,34,H34,,,
+267,A.1 General,10,34,J34,,,
+268,A.1 General,11,34,K34,,,
+269,A.1 General,12,34,L34,,,
+270,A.1 General,15,34,O34,Asset classes,,
+271,A.1 General,16,34,P34,,,
+272,A.1 General,17,34,Q34,,,
+273,A.1 General,18,34,R34,,,
+274,A.1 General,19,34,S34,"Sovereigns, PSEs, MDBs; of which:",,
+275,A.1 General,20,34,T34,sovereigns,,
+276,A.1 General,21,34,U34,PSEs treated as sovereigns as per CRE20.12,,
+277,A.1 General,22,34,V34,other PSEs,,
+278,A.1 General,24,34,X34,Banks (excluding covered bonds); of which:,,
+279,A.1 General,25,34,Y34,Claims on banks belonging to the same institutional protection scheme ,,
+280,A.1 General,26,34,Z34,ECRA - jurisdictions where ratings are allowed; of which:,,
+281,A.1 General,30,34,AD34,BBB+ to BBB-,,
+282,A.1 General,31,34,AE34,BB+ to B-,,
+283,A.1 General,32,34,AF34,below B-,,
+284,A.1 General,33,34,AG34,ECRA (short term); of which:,,
+285,A.1 General,34,34,AH34,AAA to AA- ,,
+286,A.1 General,3,35,C35,,"Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied","Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied"
+287,A.1 General,4,35,D35,,"Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied","Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied"
+288,A.1 General,5,35,E35,,"Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied","Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied"
+289,A.1 General,6,35,F35,,"Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied","Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied"
+290,A.1 General,7,35,G35,,"Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied","Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied"
+291,A.1 General,8,35,H35,,"Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied","Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied"
+292,A.1 General,10,35,J35,,"Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied","Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied"
+293,A.1 General,11,35,K35,,"Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied","Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied"
+294,A.1 General,12,35,L35,,"Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied","Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied"
+295,A.1 General,15,35,O35,Asset classes,"Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied","Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied"
+296,A.1 General,16,35,P35,,"Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied","Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied"
+297,A.1 General,17,35,Q35,,"Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied","Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied"
+298,A.1 General,18,35,R35,,"Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied","Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied"
+299,A.1 General,19,35,S35,"Sovereigns, PSEs, MDBs; of which:","Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied","Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied"
+300,A.1 General,20,35,T35,sovereigns,"Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied","Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied"
+301,A.1 General,21,35,U35,PSEs treated as sovereigns as per CRE20.12,"Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied","Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied"
+302,A.1 General,22,35,V35,other PSEs,"Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied","Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied"
+303,A.1 General,24,35,X35,Banks (excluding covered bonds); of which:,"Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied","Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied"
+304,A.1 General,25,35,Y35,Claims on banks belonging to the same institutional protection scheme ,"Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied","Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied"
+305,A.1 General,26,35,Z35,ECRA - jurisdictions where ratings are allowed; of which:,"Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied","Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied"
+306,A.1 General,30,35,AD35,BBB+ to BBB-,"Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied","Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied"
+307,A.1 General,31,35,AE35,BB+ to B-,"Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied","Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied"
+308,A.1 General,32,35,AF35,below B-,"Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied","Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied"
+309,A.1 General,33,35,AG35,ECRA (short term); of which:,"Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied","Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied"
+310,A.1 General,34,35,AH35,AAA to AA- ,"Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied","Full non-modelling approach 
+Use of SA-CCR with alpha = 1 for CCR exposures calculated under the IMM for RWA not subject to a floor, and CR-SA for RWA calculation
+Leave empty if IMM not applied"

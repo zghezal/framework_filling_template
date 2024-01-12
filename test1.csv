@@ -1,0 +1,133 @@
+,H_Level_1,abscisse
+0,Asset classes,15
+1,Asset classes,16
+2,Asset classes,17
+3,Asset classes,18
+4,Asset classes,19
+5,sovereigns,20
+6,PSEs treated as sovereigns as per CRE20.12,21
+7,other PSEs,22
+8,MDBs,23
+9,Banks (excluding covered bonds); of which:,24
+10,Claims on banks belonging to the same institutional protection scheme ,25
+11,ECRA - jurisdictions where ratings are allowed; of which:,26
+12,ECRA (long term); of which:,27
+13,AAA to AA- ,28
+14,A+ to A-,29
+15,BBB+ to BBB-,30
+16,BB+ to B-,31
+17,below B-,32
+18,ECRA (short term); of which:,33
+19,AAA to AA- ,34
+20,A+ to A-,35
+21,BBB+ to BBB-,36
+22,BB+ to B-,37
+23,below B-,38
+24,SCRA; of which:,39
+25,SCRA (long term),40
+26,Grade A (30% risk weight),41
+27,Grade A (40% risk weight),42
+28,Grade B,43
+29,Grade C,44
+30,Cannot yet be assigned,45
+31,SCRA (short term),46
+32,Grade A,47
+33,Grade B,48
+34,Grade C,49
+35,Cannot yet be assigned,50
+36,Covered bonds; of which:,51
+37,rated,52
+38,AAA to AA- ,53
+39,A+ to A-,54
+40,BBB+ to BBB-,55
+41,BB+ to B-,56
+42,below B-,57
+43,unrated; of which:,58
+44,risk weight for issuing bank of 20%,59
+45,risk weight for issuing bank of 30%,60
+46,risk weight for issuing bank of 40%,61
+47,risk weight for issuing bank of 50%,62
+48,risk weight for issuing bank of 75%,63
+49,risk weight for issuing bank of 100%,64
+50,risk weight for issuing bank of 150%,65
+51,Corporates (excluding SMEs); of which:,66
+52,Corporates (excluding SMEs) - rating allowed; of which:,67
+53,rated corporate exposures; of which:,68
+54,AAA to AA- ,69
+55,A+ to A-,70
+56,BBB+ to BBB-,71
+57,BB+ to BB-,72
+58,below BB-,73
+59,unrated corporate exposures ,74
+60,Corporates (excluding SMEs) - rating not allowed; of which:,75
+61,investment grade,76
+62,not investment grade,77
+63,Corporate SME exposures,78
+64,Specialised lending; of which:,79
+65,rated (only for jurisdictions where rating is allowed),80
+66,project finance; of which:,81
+67,pre-operational phase,82
+68,operational phase,83
+69,operational phase (high quality),84
+70,object finance,85
+71,commodity finance,86
+72,Equity exposures; of which:,87
+73,speculative unlisted,88
+74,exposures to certain legislative programs,89
+75,others,90
+76,"Subordinated debt, capital instruments other than equity and other TLAC liabilities not deducted from capital",91
+77,Equity investment in funds; of which:,92
+78,equity investment in funds (mandate-based approach),93
+79,equity investment in funds (fall back approach),94
+80,Retail exposures; of which:,95
+81,regulatory retail: transactors,96
+82,regulatory retail: non-transactors,97
+83,other retail,98
+84,Exposures secured by real estate; of which:,99
+85,general residential real estate; of which:,100
+86,whole loan approach; of which:,101
+87,LTV ≤ 50%,102
+88,50% <LTV ≤ 60%,103
+89,60% <LTV ≤ 80%,104
+90,80% <LTV ≤ 90%,105
+91,90% <LTV ≤ 100%,106
+92,LTV > 100%,107
+93,Requirements not met,108
+94,loan splitting approach; of which:,109
+95,exposures ≤ 55% of property value,110
+96,exposures > 55% of property value,111
+97,Requirements not met,112
+98,general commercial real estate; of which:,113
+99,whole loan approach; of which:,114
+100,LTV ≤ 60%,115
+101,LTV > 60%,116
+102,Requirements not met,117
+103,loan splitting approach; of which:,118
+104,exposures ≤ 55% of property value,119
+105,exposures > 55% of property value,120
+106,Requirements not met,121
+107,income producing residential real estate; of which:,122
+108,LTV ≤ 50%,123
+109,50% <LTV ≤ 60%,124
+110,60% <LTV ≤ 80%,125
+111,80% <LTV ≤ 90%,126
+112,90% <LTV ≤ 100%,127
+113,LTV > 100%,128
+114,Requirements not met,129
+115,income producing commercial real estate; of which:,130
+116,LTV ≤ 60%,131
+117,60% < LTV ≤ 80%,132
+118,LTV > 80%,133
+119,Requirements not met,134
+120,"land acquisition, development and construction; of which:",135
+121,150% risk weight,136
+122,100% risk weight,137
+123,Defaulted exposures; of which:,138
+124,below 20% provisioning rate,139
+125,,140
+126,Failed trades and non-DVP transactions,141
+127,Other assets,142
+128,Total standardised approach,143
+129,,144
+130,Memo item: SA exposures reported in the banking book in regulatory reporting but no longer included above due to the application of the revised market risk framework definition of TB-BB boundary,145
+131,Memo item: SA exposures reported in the trading book in regulatory reporting that are included above due to the application of the revised market risk framework definition of TB-BB boundary,146
